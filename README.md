@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a React.js frontend developer.
+I'm a Frontend developer.
 
   
 ## 🔗 Links
@@ -9,4 +9,4 @@ I'm a React.js frontend developer.
 
   
 ## 🛠 Skills
-Javascript, React.js, Redux, HTML5, CSS, SCSS, Flexbox, CSS Grid, Figma
+JavaScript, TypeScript, React.js, Next.js, Redux, HTML5, CSS, SCSS, Tailwind CSS, Flexbox, CSS Grid, Figma
