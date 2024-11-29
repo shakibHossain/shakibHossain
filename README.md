@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a Frontend developer.
+Frontend developer specializing in React, TypeScript, and JavaScript. Focused on creating responsive, user-friendly web applications. Always looking to improve my skills and build efficient, scalable solutions.
 
   
 ## 🔗 Links
